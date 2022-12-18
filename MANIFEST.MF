@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Sergi
+Main-Class: Main
+X-COMMENT: Editor de texto
